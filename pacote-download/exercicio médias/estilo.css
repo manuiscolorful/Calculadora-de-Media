@@ -1,0 +1,40 @@
+body{
+    background-color: rgb(108, 155, 134);
+    font: normal 16pt arial;
+}
+header{
+    color: white;
+    text-align: center;
+}
+
+section{
+    background: white;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    height: 500px;
+    margin: auto;
+}
+div {
+    font: normal 14pt arial;
+    margin: 25px;
+}
+div#resu {
+    margin-top: 50px;
+    text-align: center;
+}
+input {
+    padding: 7px;
+    margin: auto;
+    margin-top: 8px;
+    margin-bottom: 10px;
+    
+}
+img {
+    width: 200px;
+}
+footer{
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
